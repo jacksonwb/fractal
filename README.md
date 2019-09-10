@@ -39,6 +39,6 @@ optional arguments:
 * <kbd>R</kbd> - Reset view
 * <kbd>-+</kbd> - Adjust iteration depth
 * <kbd>T</kbd> - Toggle renderer backend
-* <kdb>ESC</kbd> - Quit
+* <kbd>ESC</kbd> - Quit
 
 
