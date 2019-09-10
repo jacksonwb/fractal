@@ -5,8 +5,8 @@ The fractal is generated using either the Numpy based or the Numba based backend
 !["mandelbrot"](img/img1.png)
 !["zoomed mandelbrot"](img/img2.png)
 <p float="left">
-  <img src="img/img3.png" width="400" />
-  <img src="img/img4.gif" width="400" />
+  <img src="img/img3.png" width="300" />
+  <img src="img/img4.gif" width="300" />
 </p>
 ## Requirements
 * Python3
