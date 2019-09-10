@@ -14,9 +14,11 @@ The fractal is generated using either the Numpy based or the Numba based backend
 * Numba
 * Numpy
 * Matplotlib
+* tkinter
 
 ## Setup
 `pip install -r requirements.txt`
+`apt-get install python3-tk` - Depends on platform
 
 ## Usage
 ```
