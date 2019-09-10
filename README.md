@@ -8,6 +8,7 @@ The fractal is generated using either the Numpy based or the Numba based backend
   <img src="img/img3.png" width="300" />
   <img src="img/img4.gif" width="300" />
 </p>
+
 ## Requirements
 * Python3
 * Numba
